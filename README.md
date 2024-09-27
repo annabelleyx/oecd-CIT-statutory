@@ -4,8 +4,8 @@ To natively process data from the API, first run oecd_statutory.py. For formatte
 
 Data presented in the master oecd_tax_rates_reformatted.xlsx contains the below rates for countries in a time series. 
 
-CIT_C_S13_ST: combined statutory corporate income tax rate for the general government
-CIT_EX_ST_S1311_ST: statutory corporate income tax rate for the central government, excluding any surtaxes.
-CIT_LSN_S1311_ST: statutory corporate income tax rate for the central government, after deducting sub-national taxes.
-CIT_S1311_ST: basic statutory corporate income tax rate for the central government.
-CIT_SCG_S13M_ST: statutory corporate income tax rate for sub-central (state and local) governments.
+ <br>CIT_C_S13_ST: combined statutory corporate income tax rate for the general government
+ <br>CIT_EX_ST_S1311_ST: statutory corporate income tax rate for the central government, excluding any surtaxes.
+ <br>CIT_LSN_S1311_ST: statutory corporate income tax rate for the central government, after deducting sub-national taxes.
+ <br>CIT_S1311_ST: basic statutory corporate income tax rate for the central government.
+ <br>CIT_SCG_S13M_ST: statutory corporate income tax rate for sub-central (state and local) governments.
